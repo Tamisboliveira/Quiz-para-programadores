@@ -1,2 +1,2 @@
 # Quiz-para-programadores
-Aprendendo HTML e CSS do Zero (Rafaella Ballerini)
+Versão 01: Aprendendo HTML e CSS do Zero (Rafaella Ballerini)
